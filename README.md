@@ -1,4 +1,4 @@
-# nodelist-ffm
+# nodelist-ffnh
 A [Freifunk](https://freifunk.net) [node list](https://github.com/freifunkMUC/nodelist) by [Freifunk München](https://ffmuc.net). [Live-Demo](https://onmars.eu/ffmuc/list/)
 
 ## Build [![Build Status](https://travis-ci.org/freifunkMUC/nodelist.svg?branch=master)](https://travis-ci.org/freifunkMUC/nodelist)
